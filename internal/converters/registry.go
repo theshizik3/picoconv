@@ -1,12 +1,12 @@
 package converters
 
 import (
-	"converter/internal/converters/audio"
-	"converter/internal/converters/configs"
-	"converter/internal/converters/image"
-	"converter/internal/converters/video"
-	"converter/internal/core"
-	"converter/pkg/converter"
+	"github.com/theshizik3/picoconv/internal/converters/audio"
+	"github.com/theshizik3/picoconv/internal/converters/configs"
+	"github.com/theshizik3/picoconv/internal/converters/image"
+	"github.com/theshizik3/picoconv/internal/converters/video"
+	"github.com/theshizik3/picoconv/internal/core"
+	"github.com/theshizik3/picoconv/pkg/converter"
 )
 
 func BuildRegistry() (converter.Registry, error) {

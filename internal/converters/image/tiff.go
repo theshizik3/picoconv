@@ -1,10 +1,11 @@
 package image
 
 import (
-	"converter/pkg/converter"
 	"fmt"
 	"image"
 	"io"
+
+	"github.com/theshizik3/picoconv/pkg/converter"
 
 	"github.com/sunshineplan/tiff"
 )

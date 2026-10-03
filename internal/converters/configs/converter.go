@@ -1,9 +1,10 @@
 package configs
 
 import (
-	"converter/internal/core"
-	"converter/pkg/converter"
 	"os"
+
+	"github.com/theshizik3/picoconv/internal/core"
+	"github.com/theshizik3/picoconv/pkg/converter"
 )
 
 type ConfigsConverter struct {

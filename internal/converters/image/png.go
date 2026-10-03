@@ -1,11 +1,12 @@
 package image
 
 import (
-	"converter/pkg/converter"
 	"fmt"
 	"image"
 	"image/png"
 	"io"
+
+	"github.com/theshizik3/picoconv/pkg/converter"
 )
 
 type PNGDecoder struct{}

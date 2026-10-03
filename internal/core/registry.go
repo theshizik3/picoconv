@@ -1,9 +1,10 @@
 package core
 
 import (
-	"converter/pkg/converter"
 	"fmt"
 	"sync"
+
+	"github.com/theshizik3/picoconv/pkg/converter"
 )
 
 type key struct {

@@ -1,8 +1,9 @@
 package configs
 
 import (
-	"converter/pkg/converter"
 	"io"
+
+	"github.com/theshizik3/picoconv/pkg/converter"
 )
 
 type Encoder interface {

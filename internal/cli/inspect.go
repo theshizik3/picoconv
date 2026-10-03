@@ -1,8 +1,9 @@
 package cli
 
 import (
-	"converter/internal/core"
 	"fmt"
+
+	"github.com/theshizik3/picoconv/internal/core"
 
 	"github.com/spf13/cobra"
 )

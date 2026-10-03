@@ -1,10 +1,11 @@
 package cli
 
 import (
-	"converter/internal/converters"
 	"encoding/json"
 	"fmt"
 	"slices"
+
+	"github.com/theshizik3/picoconv/internal/converters"
 
 	"github.com/spf13/cobra"
 )

@@ -1,10 +1,11 @@
 package configs
 
 import (
-	"converter/pkg/converter"
 	"encoding/json"
 	"io"
 	"strings"
+
+	"github.com/theshizik3/picoconv/pkg/converter"
 )
 
 type JSONDecoder struct{}

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"converter/internal/cli"
+	"github.com/theshizik3/picoconv/internal/cli"
 )
 
 func main() {

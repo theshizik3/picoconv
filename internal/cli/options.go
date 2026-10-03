@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"converter/pkg/converter"
+	"github.com/theshizik3/picoconv/pkg/converter"
 
 	"github.com/spf13/cobra"
 )

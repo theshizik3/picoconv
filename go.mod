@@ -1,4 +1,4 @@
-module converter
+module github.com/theshizik3/picoconv
 
 go 1.27.1
 

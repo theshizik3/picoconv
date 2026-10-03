@@ -1,12 +1,13 @@
 package cli
 
 import (
-	"converter/internal/converters"
-	"converter/internal/core"
-	"converter/pkg/converter"
 	"fmt"
 	"path/filepath"
 	"strings"
+
+	"github.com/theshizik3/picoconv/internal/converters"
+	"github.com/theshizik3/picoconv/internal/core"
+	"github.com/theshizik3/picoconv/pkg/converter"
 
 	"github.com/spf13/cobra"
 )

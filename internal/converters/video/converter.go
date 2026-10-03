@@ -1,8 +1,8 @@
 package video
 
 import (
-	"converter/internal/core"
-	"converter/pkg/converter"
+	"github.com/theshizik3/picoconv/internal/core"
+	"github.com/theshizik3/picoconv/pkg/converter"
 
 	ffmpeg "github.com/u2takey/ffmpeg-go"
 )

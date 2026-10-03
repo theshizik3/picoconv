@@ -1,9 +1,10 @@
 package image
 
 import (
-	"converter/pkg/converter"
 	"image"
 	"io"
+
+	"github.com/theshizik3/picoconv/pkg/converter"
 
 	"golang.org/x/image/bmp"
 )
