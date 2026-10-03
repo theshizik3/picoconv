@@ -230,4 +230,8 @@ go build -o pconv ./cmd/converter
 
 ## License
 
-No license file is currently included in this repository.
+PicoConv is free software released under the **GNU General Public License v3.0**.
+
+Copyright (C) 2026 Gorozhankin Andrey
+
+See the full license text in [`LICENSE`](LICENSE).
